@@ -1,8 +1,18 @@
-<h2 align="center">IT Student from Spain</h3>
-<h3 align="center">Enjoys minimalism</h4>
-<h4 align="center">What I like to use</h3>
+<h1 align="center">Energypop Profile</h1>
+<p>
+    I am a IT student. I have worked with Windows Powershell, Windows and Linux servers, local networks, computer hardware and several additional things related
+    with the IT field. I am very into programming, especially scripting, automation, video game programming and backend development.  
+</p>
+<h2 align="center">Technologies I work on my programming journey</h2>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,python"/>
+  </a>
+</p>
+    
+<h2 align="center">Technologies I would like to learn</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,angular,js,ts,mysql,unity"/>
+  </a>
 </p>
