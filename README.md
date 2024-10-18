@@ -12,6 +12,6 @@
 <h2 align="center">Technologies I’m interested in learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,angular,react,ts,mysql,unity"/>
+    <img src="https://skillicons.dev/icons?i=cs,angular,react,ts,mysql,unity,go,rust"/>
   </a>
 </p>
