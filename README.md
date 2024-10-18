@@ -5,7 +5,7 @@
 <h2 align="center">Technologies I work with in my programming journey</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,html,css,js,python,php"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,html,css,js,php,powershell"/>
   </a>
 </p>
     
