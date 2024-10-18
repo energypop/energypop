@@ -5,13 +5,13 @@
 <h2 align="center">Technologies I work with in my programming journey</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,html,css,js,php,powershell"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,html,css,js,php,powershell,bash"/>
   </a>
 </p>
     
 <h2 align="center">Technologies I’m interested in learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,angular,ts,mysql,unity"/>
+    <img src="https://skillicons.dev/icons?i=cs,angular,react,ts,mysql,unity"/>
   </a>
 </p>
