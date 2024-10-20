@@ -9,7 +9,7 @@
   </a>
    <br>
 </p>
-    <strong>I mostly use PowerShell as scripting language, but I work with bash a lot too</strong>
+    <strong>I mostly use PowerShell as scripting language, but I work with bash to keep my Linux skills as high as I can</strong>
     
 <h2 align="center">Technologies I’m interested in learning</h2>
 <p align="center">
