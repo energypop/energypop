@@ -14,6 +14,6 @@
 <h2 align="center">Technologies I’m interested in learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,ts,bootstrap,tailwind,node"/>
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,bootstrap,tailwind,nodejs"/>
   </a>
 </p>
