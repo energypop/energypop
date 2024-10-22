@@ -8,7 +8,7 @@ I am an IT student with experience in Windows and Linux servers, local networks,
   </a>
    <br>
 </p>
-    <small>I mostly use PowerShell, but I work with bash to keep my Linux skills as high as I can. I prefer to use JS and backend language rather than shell scripting ones</small>
+    <small>I have more experience with PowerShell than bash, but I work with bash to keep my Linux skills as high as possible. I prefer to use JS and backend language rather than shell scripting ones</small>
     
 <h2 align="center">Technologies I’m interested in learning</h2>
 <p align="center">
