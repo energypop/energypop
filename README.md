@@ -13,6 +13,6 @@ I am an IT student with experience in Windows and Linux servers, local networks,
 <h2 align="center">Technologies I’m interested in learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=angular,nodejs"/>
   </a>
 </p>
