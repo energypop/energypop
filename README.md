@@ -7,7 +7,6 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
   <li>Web development</li>
   <li>Networks and network services</li>
   <li>Databases</li>
-  <li>Operating systems</li>
   <li>PC repair and assembly</li>
 </ul>
 
