@@ -13,7 +13,7 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
 ### Languages 
 I'm able to communicate in both English [US] and Spanish [ES]. If we mean computer languages, my current stack looks like this 
 
-[![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,python,bash,powershell)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,python,bash,powershell,git,github)](https://skillicons.dev)
 ### A goal for the future
 I aspire to study and develop the skills necessary to excel not only as a highly competent IT professional but also as a valuable cybersecurity analyst, contributing to open-source projects with the experience and knowledge I gain over time.
 ## Some beloved repos
