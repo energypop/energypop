@@ -19,4 +19,4 @@ I aspire to study and develop the skills necessary to excel not only as a highly
 ## Some beloved repos
 **[🥇: Maciflix](https://github.com/energypop/Maciflix)** A Netflix copy made with HTML, CSS and JS as project from my web apps lessons. Built alongside a team. 
 
-**[🥈: Parity Calculator](../../../list)** My quick, easy and simple script that allows me to make sure I calculated correctly the parity partition value. This is the algorithm RAID 5 follows to calculate parity. 
+**[🥈: Parity Calculator](https://github.com/energypop/parity_calculator)** My quick, easy and simple script that allows me to make sure I calculated correctly the parity partition value. This is the algorithm RAID 5 follows to calculate parity. 
