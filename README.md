@@ -17,6 +17,6 @@ I'm able to communicate in both English [US] and Spanish [ES]. If we mean comput
 ### A goal for the future
 I aspire to study and develop the skills necessary to excel not only as a highly competent IT professional but also as a valuable cybersecurity analyst, contributing to open-source projects with the experience and knowledge I gain over time.
 ## Some beloved repos
-**[🥇: Maciflix](https://github.com/energypop/Maciflix)** A Netflix copy made with HTML, CSS and JS as project from my web apps lessons. Build alongside a team. 
+**[🥇: Maciflix](https://github.com/energypop/Maciflix)** A Netflix copy made with HTML, CSS and JS as project from my web apps lessons. Built alongside a team. 
 
 **[🥈: Parity Calculator](../../../list)** My quick, easy and simple script that allows me to make sure I calculated correctly the parity partition value. This is the algorithm RAID 5 follows to calculate parity. 
