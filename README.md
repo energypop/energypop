@@ -1,6 +1,6 @@
 # Greetings, I'm Dreampop 🌟
 
-I am self-studying programming and have a keen interest in web development, particularly backend development, as well as cybersecurity. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html" target="_BLANK">
+I am studying programming by myself and have a keen interest in web development, particularly backend development, as well as cybersecurity. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html" target="_BLANK">
 vocational program in IT</a>, focusing on the various IT roles and skill sets.<ul>
   <li>Systems administration</li>
   <li>Cybersecurity</li>
