@@ -1,6 +1,6 @@
 # Greetings, I'm Dreampop 🌟
 
-I am studying programming by myself and have a keen interest in web development, particularly backend development, as well as cybersecurity. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html">
+Tech with a liking in cybersecurity and PowerShell. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html">
 vocational program in IT</a>, focusing on the various IT roles and skill sets.<ul>
   <li>Systems administration</li>
   <li>Cybersecurity</li>
@@ -11,7 +11,7 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
 </ul>
 
 ### Languages 
-I'm able to communicate in both English [US] and Spanish [ES]. If we mean computer languages, my current stack looks like this 
+I'm able to communicate in both English and Spanish. If we mean computer languages, my current stack looks like this 
 
 [![Tech stack](https://skillicons.dev/icons?i=html,css,js,php,bash,powershell,git,github)](https://skillicons.dev)
 ### A goal for the future
