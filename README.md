@@ -18,7 +18,3 @@ I'm able to communicate in both English and Spanish. Learning Dutch. I work to a
   <li>Bash</li>
   <li>Powershell</li>
 </ul>
-## Some beloved repos
-**[🥇: Maciflix](https://github.com/energypop/Maciflix)** A Netflix copy made with HTML, CSS, and JS as a project from my web apps lessons. Built alongside a team. 
-
-**[🥈: Parity Calculator](https://github.com/energypop/parity_calculator)** My quick, easy and simple script that allows me to make sure I calculated correctly the parity partition value. This is the algorithm RAID 5 follows to calculate parity. 
