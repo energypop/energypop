@@ -11,8 +11,13 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
 
 ### Languages 
 I'm able to communicate in both English and Spanish. Learning Dutch. I work to a confident level with the following technologies
-[![Tech stack](https://skillicons.dev/icons?i=html,css,js,bash,powershell,git,github)](https://skillicons.dev)
-
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+  <li>Bash</li>
+  <li>Powershell</li>
+</ul>
 ## Some beloved repos
 **[🥇: Maciflix](https://github.com/energypop/Maciflix)** A Netflix copy made with HTML, CSS, and JS as a project from my web apps lessons. Built alongside a team. 
 
