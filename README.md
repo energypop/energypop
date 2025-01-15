@@ -1,6 +1,6 @@
 # Greetings, I'm Dreampop 🌟
 
-Tech with a liking for cybersecurity and system administration. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html">
+Tech with a liking for cybersecurity and networks. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html">
 vocational program in IT</a>, focusing on the various IT roles and skill sets.<ul>
   <li>Systems administration</li>
   <li>Cybersecurity</li>
@@ -10,11 +10,11 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
 </ul>
 
 ### Languages 
-I'm able to communicate in both English and Spanish. Learning Dutch. I work to a confident level with the following technologies
+I'm able to communicate in both English and Spanish. Learning Dutch. I work l with the following technologies
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JS</li>
-  <li>Bash</li>
-  <li>Powershell</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+  <li>Go</li>
 </ul>
