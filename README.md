@@ -15,6 +15,5 @@ I'm able to communicate in both English and Spanish. Learning Dutch. I work l wi
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>PHP</li>
   <li>Go</li>
 </ul>
