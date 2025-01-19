@@ -16,4 +16,5 @@ I'm able to communicate in both English and Spanish. Learning Dutch. I like to w
   <li>CSS</li>
   <li>Javascript and preferably, Typescript</li>
   <li>Go</li>
+  <li>C# (Not using it at the moment)</li>
 </ul>
