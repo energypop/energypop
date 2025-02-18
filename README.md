@@ -10,10 +10,12 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
 </ul>
 
 ### Languages 
-I'm able to communicate in both English and Spanish. Learning Dutch. I like to work l with the following technologies
+I'm able to communicate in both English and Spanish. Learning Dutch. I have been around the following technologies
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
   <li>Python</li>
+  <li>PHP :(</li>
+  <li>MySQL</li>
 </ul>
