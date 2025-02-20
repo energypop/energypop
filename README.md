@@ -23,8 +23,6 @@ I'm able to communicate in both English and Spanish. Learning Dutch. I have been
 ### Special place in 💙
 <ul>
   <li>Golang</li>
-  <li>Rust</li>
   <li>Bash</li>
-  <li>NixOS</li>
-  <li>OpenSuse</li>
+  <li>Linux</li>
 </ul>
