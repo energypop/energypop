@@ -16,7 +16,6 @@ I'm able to communicate in both English and Spanish. Learning Dutch. I have been
   <li>CSS</li>
   <li>Javascript</li>
   <li>Python</li>
-  <li>PHP :(</li>
   <li>MySQL</li>
 </ul>
 
