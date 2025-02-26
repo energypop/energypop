@@ -9,19 +9,11 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
   <li>PC repair and assembly</li>
 </ul>
 
-### Languages 
-I'm able to communicate in both English and Spanish. Learning Dutch. I have been around the following technologies
+### Technologies I spend time in 
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Python</li>
-  <li>MySQL</li>
-</ul>
-
-### Special place in 💙
-<ul>
-  <li>Golang</li>
+  <li>PowerShell</li>
   <li>Bash</li>
-  <li>Linux</li>
 </ul>
