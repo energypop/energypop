@@ -1,5 +1,3 @@
-# Greetings, I'm Dreampop 🌟
-
 Tech with a liking for cybersecurity and networks. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html">
 vocational program in IT</a>, focusing on the various IT roles and skill sets.<ul>
   <li>Systems administration</li>
