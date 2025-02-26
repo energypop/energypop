@@ -10,10 +10,4 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
 </ul>
 
 ### Technologies I spend time in 
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>PowerShell</li>
-  <li>Bash</li>
-</ul>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,powershell,bash,linux,windows)](https://skillicons.dev)
