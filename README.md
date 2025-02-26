@@ -3,8 +3,9 @@ vocational program in IT</a>, focusing on the various IT roles and skill sets.<u
   <li>Systems administration</li>
   <li>Cybersecurity</li>
   <li>Web development</li>
-  <li>Networks and network services</li>
+  <li>Networks / Network Services</li>
   <li>PC repair and assembly</li>
+  <li>Scripting</li>
 </ul>
 
 ### Technologies I spend time in 
