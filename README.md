@@ -1,12 +1,19 @@
-Tech with a liking for cybersecurity and networks. Currently, I am studying a <a href="https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html">
-vocational program in IT</a>, focusing on the various IT roles and skill sets.<ul>
-  <li>Systems administration</li>
-  <li>Cybersecurity</li>
-  <li>Web development</li>
-  <li>Networks / Network Services</li>
-  <li>PC repair and assembly</li>
-  <li>Scripting</li>
-</ul>
+### Corpo talk warning ⚠️ 
+---
 
-### Technologies I spend time in 
+👋 Tech enthusiast with a passion for all things code and security
+
+🔧 **Skills and interests:**
+- **PowerShell** and **Bash** scripting.
+- **Java** for robust applications and backend/software development.
+- Keen interest in **Cybersecurity** and **Networking**.
+- Comfortable navigating both **Linux** and **Windows** environments.
+
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash,java,linux,windows)](https://skillicons.dev)
+
+
+💡 Let's connect and build something awesome together! Feel free to reach out if you have any questions or just want to chat about tech.
+  - Discord ↠ cyberjinx_y
+  - Matrix ↠ @dreampop02:matrix.org
+
+---
