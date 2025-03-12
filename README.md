@@ -13,6 +13,6 @@
 
 💡 Let's connect and build something awesome together! Feel free to reach out if you have any questions or just want to chat about tech.
   - Discord ↠ cyberjinx_y
-  - Matrix ↠ @dreampop02:matrix.org
+  - Matrix / Element ↠ @dreampop02:matrix.org (Preferred)
 
 ---
