@@ -4,7 +4,7 @@
 👋 Tech enthusiast with a passion for all things code and security
 
 🔧 **Skills and interests:**
-- **PowerShell** and **Bash** scripting.
+- **Bash** scripting (any programming language). 
 - Keen interest in **Cybersecurity** and **Networking**.
 - Comfortable navigating both **Linux** and **Windows** environments.
 
