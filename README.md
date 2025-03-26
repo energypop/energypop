@@ -11,7 +11,7 @@
   - ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF69B4?style=for-the-badge)
   - ![Networking](https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge)
   - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ---
 
 ### 💡 Let's Connect!
