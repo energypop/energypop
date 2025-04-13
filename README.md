@@ -4,7 +4,7 @@
 
 <p>Tech enthusiast with a passion for security, communications, systems and programming</p>
 
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,vscode,visualstudio&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,vscode&theme=light)](https://skillicons.dev)
 
 
 ---
@@ -14,7 +14,7 @@
 ### 🔧 Skills and Interests
 <p>I try to contribute what I can to different projects I can find on Github. I like the idea of game development, cibersecurity and back-end development</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,npm,nodejs,cs,dotnet&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,rust,git,github&theme=light)](https://skillicons.dev)
 
 
 
