@@ -14,7 +14,7 @@
 ### 🔧 Skills and Interests
 <p>I try to contribute what I can to different projects I can find on Github. I like the idea of game development, cibersecurity and back-end development</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,godot,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,godot,git,github&theme=light)](https://skillicons.dev)
 
 
 
@@ -22,9 +22,6 @@
 ### 💡 Let's Connect!
 
 - **Discord**: [cyberjinx_y](https://discord.com/)
-- **Matrix / Element**: [@dreampop02:matrix.org](https://element.io/) 
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=energypop&show_icons=true&theme=radical" alt="GitHub Stats">
