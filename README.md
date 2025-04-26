@@ -15,7 +15,7 @@
 <p>I try to contribute what I can to different projects I can find on Github. I like the idea of game development, cibersecurity and back-end development</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,godot,git,github&theme=light)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=py,go,unreal,swift,dotnet&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,unreal,swift&theme=light)](https://skillicons.dev)
 
 
 
