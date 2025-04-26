@@ -14,7 +14,7 @@
 ### 🔧 Skills and Interests
 <p>I try to contribute what I can to different projects I can find on Github. I like the idea of game development, cibersecurity and back-end development</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,godot,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,unreal,godot,git,github&theme=light)](https://skillicons.dev)
 
 
 
