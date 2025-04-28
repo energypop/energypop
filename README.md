@@ -4,7 +4,7 @@
 
 <p>Tech enthusiast with a passion for security, communications, systems and programming</p>
 
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,vscode,visualstudio&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,vscode,visualstudio&theme=dark)](https://skillicons.dev)
 
 
 ---
