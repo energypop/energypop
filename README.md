@@ -12,9 +12,11 @@
 
 
 ### 🔧 Skills 
-<p>I try to contribute what I can to different projects I can find on Github. I like the idea of game development, cibersecurity and web development</p>
+<p>I try to contribute what I can to different projects I can find on Github. I like the idea of sysadministration, cibersecurity and web development. Some are <strong>still in development</strong></p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,git,github&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,powershell,bash&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev) <br>
 
 
 
