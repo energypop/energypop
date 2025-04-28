@@ -29,5 +29,5 @@
 
 ---
 <div align="center">
-    <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="200">
+    <img src="https://tenor.com/es/view/anime-cyberpunk-edgerunners-unclephuc-rebecca-gif-9958122878385643755.gif">
 </div>
