@@ -1,7 +1,6 @@
 <div align="center">
   <h1>⚠️ Corpo Talk Warning</h1>
 </div>
----
 
 
 
