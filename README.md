@@ -15,7 +15,7 @@
 <p>I try to contribute what I can to different projects I can find on Github or make my own things. My favorite fields are system administration and web development. Scripting is fun</p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell&theme=dark)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev) <br>
 
 
